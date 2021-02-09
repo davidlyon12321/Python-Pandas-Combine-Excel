@@ -15,3 +15,19 @@ Data in the files has been cleaned
 
 Process:
 We put our input files into a subfolder.  Our python script mines the data from each file and combined it into a single file.  If there are multiple files with the same contract #, the script keeps the most recent file, removing the older duplicate data.
+
+Files:
+Combine Credits xx-xx-xxxx.py: Python script w/o notes
+Combine Credits with Comments xx-xx-xxxx.py: Python script with notes
+Input files:
+12310_Customer D_T0_01-22-2020.xlsx
+19020_Customer I_T0_06-06-2020.xlsx
+22301_Customer J_T2_10-25-2020.xlsx
+23151_Customer C_T1_04-11-2020.xlsx
+33412_Customer F_T0_09-19-2020.xlsx
+45829_Customer A_T1_02-22-2020.xlsx
+45829_Customer A_T1_05-22-2020.xlsx
+48120_Customer B_T1_11-14-2020.xlsx
+57329_Customer H_T3_02-24-2020.xlsx
+59201_Customer E_T2_08-15-2020.xlsx
+89210_Customer G_T0_07-21-2020.xlsx
