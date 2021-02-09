@@ -1,4 +1,5 @@
 Python-Pandas-Combine-Excel
+
 Business Need:
 Businesses commonly need to consolidate data from separate excel files.  Across enough files, manually copy+pasting is prohibitively time consuming.  We can use Python to pull together millions of data points from thousands of files.
 
