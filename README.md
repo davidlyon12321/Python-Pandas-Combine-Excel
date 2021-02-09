@@ -6,6 +6,7 @@ Business Case:
 
 We receive .xlsm files from a vendor containing promotional credit amounts on their products we resell. These are the deal-specific discount we receive, so we may receive multiple iterations of each file as we negotiate the deal with our end-customer. Management would like a consolidated view of the credits we received on such deals in the past 12 months.
 
+
 Input Files:
 
 Files have a standard naming convention, separated by underscores
