@@ -13,7 +13,7 @@ Assumptions:
 No files with the same contract # AND the same date
 File names have been cleaned, and are consistent
 Data in the files has been cleaned
-
+ 
 Process:
 We put our input files into a subfolder.  Our python script mines the data from each file and combined it into a single file.  If there are multiple files with the same contract #, the script keeps the most recent file, removing the older duplicate data.
 
